@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌻 Project Sunflower
 ESP32-Based Rhythm Game
 
