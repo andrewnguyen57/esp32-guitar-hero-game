@@ -12,7 +12,7 @@
 - Whether there are enough pins to control all modules
 - How to store the audio files
 
-## 2026-03-29
+## 2026-03-29 - Testing LED Panel
 **What I did:**
 - Connected the HUD75 LED Panel to the ESP32 Board with the following Pins:
 

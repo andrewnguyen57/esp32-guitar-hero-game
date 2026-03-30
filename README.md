@@ -2,6 +2,7 @@
 ESP32-Based Rhythm Game
 
 🚧 **Status:** In Development  
+**See [Development Log](/docs/devlog.md)**
 
 ## 🎯 Overview
 Project Sunflower is a real-time rhythm game built on the ESP32-C6.
